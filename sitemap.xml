@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://thanhngoc.me/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://thanhngoc.me/</loc>
+</url>
+<url>
+<loc>https://thanhngoc.me/about/</loc>
+<lastmod>2025-02-28T18:20:48+07:00</lastmod>
+</url>
+<url>
+<loc>https://thanhngoc.me/another-post/</loc>
+<lastmod>2025-02-28T18:29:57+07:00</lastmod>
+<image:image>
+<image:loc>https://thanhngoc.me/media/posts/6/profile.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://thanhngoc.me/portfolio/</loc>
+<lastmod>2025-02-28T18:28:23+07:00</lastmod>
+</url>
+<url>
+<loc>https://thanhngoc.me/post-3/</loc>
+<lastmod>2025-03-01T12:53:13+07:00</lastmod>
+<image:image>
+<image:loc>https://thanhngoc.me/media/posts/8/profile.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://thanhngoc.me/some-post/</loc>
+<lastmod>2025-02-28T18:30:12+07:00</lastmod>
+<image:image>
+<image:loc>https://thanhngoc.me/media/posts/1/profile.png</image:loc>
+<image:title><![CDATA[Some alt text]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://thanhngoc.me/writing/</loc>
+<lastmod>2025-02-28T18:25:15+07:00</lastmod>
+</url>
+</urlset>
